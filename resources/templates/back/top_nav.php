@@ -24,8 +24,6 @@
                 echo "unregistered user";
             }
 
-
-
             ?>
 
             <b class="caret"></b></a>
