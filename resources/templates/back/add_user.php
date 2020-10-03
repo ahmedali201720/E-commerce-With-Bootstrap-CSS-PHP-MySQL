@@ -13,9 +13,6 @@
 
 <form action="" method="post" enctype="multipart/form-data">
 
-
-
-
   <div class="col-md-6">
 
      <div class="form-group">
@@ -24,13 +21,11 @@
          
      </div>
 
-
      <div class="form-group">
       <label for="username">Username</label>
       <input type="text" name="username" class="form-control" >
          
      </div>
-
 
       <div class="form-group">
           <label for="email">Email</label>
@@ -44,13 +39,6 @@
       <input type="text" name="first_name" class="form-control"   >
          
      </div> -->
-<!-- 
-      <div class="form-group">
-          <label for="last name">Last Name</label>
-      <input type="text" name="last_name" class="form-control"   >
-         
-     </div> -->
-
 
       <div class="form-group">
           <label for="password">Password</label>
@@ -64,19 +52,9 @@
 
       <input type="submit" name="add_user" class="btn btn-primary pull-right" value="Add User" >
          
-     </div>
-
-
-      
+    </div>
 
   </div>
 
-
-
 </form>
 
-
-
-
-
-    
