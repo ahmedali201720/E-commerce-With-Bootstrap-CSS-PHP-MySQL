@@ -8,9 +8,7 @@
 </div>
                
 
-
 <form action="" method="post" enctype="multipart/form-data">
-
 
 <div class="col-md-8">
 
@@ -82,7 +80,6 @@
 
     <!-- Product Brands-->
 
-
     <div class="form-group">
       <label for="product-title">Product Quantity</label>
         <input type="number" name="product_quantity" class="form-control">
@@ -90,7 +87,6 @@
 
 
 <!-- Product Tags -->
-
 
    <!--  <div class="form-group">
           <label for="product-title">Product Keywords</label>
@@ -104,8 +100,6 @@
         <input type="file" name="file">
       
     </div>
-
-
 
 </aside><!--SIDEBAR-->
 
