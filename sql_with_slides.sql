@@ -1,21 +1,10 @@
--- phpMyAdmin SQL Dump
--- version 4.6.4
--- https://www.phpmyadmin.net/
---
--- Host: localhost
--- Generation Time: Mar 21, 2017 at 10:36 PM
--- Server version: 5.6.33
--- PHP Version: 7.0.12
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 --
 -- Database: `ecom`
 --
-
 -- --------------------------------------------------------
-
 --
 -- Table structure for table `categories`
 --
